@@ -1,0 +1,11 @@
+RollNo,Name,Branch,Block,Room,Bench,Position
+21CSE107,Vamsi Krishna,CSE (AI & ML),Block-1,Room-1,1,Left
+21CSE109,Sanjay Rao,CSE (Cyber Security),Block-1,Room-1,1,Right
+21CSE108,Neha Verma,CSE (Data Science),Block-1,Room-1,2,Left
+21CHE106,Anjali Das,Chemical Engineering,Block-1,Room-1,2,Right
+21CE105,Kiran Patel,Civil Engineering,Block-1,Room-1,3,Left
+21CSE101,Rahul Kumar,Computer Science and Engineering,Block-1,Room-1,3,Right
+21EEE110,Divya Nair,Electrical and Electronics Engineering,Block-1,Room-1,4,Left
+21ECE102,Sneha Reddy,Electronics and Communications Engineering,Block-1,Room-1,4,Right
+21IT103,Amit Sharma,Information Technology,Block-1,Room-1,5,Left
+21ME104,Priya Singh,Mechanical Engineering,Block-1,Room-1,5,Right
